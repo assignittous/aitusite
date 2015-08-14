@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/assignittous/aitusite/issues"
   },
-  "homepage": "https://github.com/assignittous/aitusite"
+  "homepage": "https://github.com/assignittous/aitusite",
+  "devDependencies": {
+    "aitutils": "^0.1.14",
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-task-master": "^1.1.0"
+  }
 }
