@@ -1,0 +1,17 @@
+{
+  "name": "aitusite",
+  "version": "0.0.0",
+  "homepage": "https://github.com/assignittous/aitusite",
+  "authors": [
+    "Steven Ng <steven.ng@braintapper.com>"
+  ],
+  "description": "Assets for Assign It To Us web sites",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
